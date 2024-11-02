@@ -48,7 +48,7 @@ a{
     flex-direction: column;
     justify-content: center;
     height: 100px;
-    padding: 0.5rem 0.75rem;     /*8px 12px 8/16=0.5rem  12/16=0.75 rem*/
+    padding: 0.5rem 0.75rem;     
 }
 
 .nav-option{
