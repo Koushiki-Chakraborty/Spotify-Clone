@@ -12,13 +12,4 @@
   CSS3: For styling and layout.
   Flexbox/Grid: To create a responsive layout.
 
-## Getting Started
-  1. Clone the repository: https://github.com/Koushiki-Chakraborty/Spotify-Clone.git
-  2. Navigate to the project directory: cd Spotify-Clone
-  3. Open index.html in your web browser to view the project.
 
-## Contributing
-  Feel free to fork the repository and submit pull requests for improvements or new features!
-
-## License
-  This project is licensed under the MIT License.
